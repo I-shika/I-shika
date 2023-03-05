@@ -1,5 +1,5 @@
-###     <div align='center'>                                           Hi there!, I am Ishika                                </div>                                             
-![githubimg](https://user-images.githubusercontent.com/100770197/222948745-70bc2db4-0c6d-4ef1-8f3a-6f06fe61c548.jpg)  
+###     <div align='center'>                                           Hi there!, I am Ishika                                </div>                                        <div align='center'>      
+![githubimg](https://user-images.githubusercontent.com/100770197/222948745-70bc2db4-0c6d-4ef1-8f3a-6f06fe61c548.jpg)          </div>  
 <!-- **I-shika/I-shika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your  -->
              
 
