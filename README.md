@@ -4,8 +4,6 @@
              
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as technical manager at E-cell IITR
 - 🌱 Currently learning about Open source, DSA.
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +11,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about tech related
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
- -->
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+
 
 
