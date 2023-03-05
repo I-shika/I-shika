@@ -1,7 +1,8 @@
 ###                                                           Hi there!, I am Ishika 
-                                            ![alt text](https://user-images.githubusercontent.com/100770197/222944539-804251dd-e172-45e9-8f49-36635259362e.png)
+                                            
+**I-shika/I-shika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your 
+              ![githubimg](https://user-images.githubusercontent.com/100770197/222948745-70bc2db4-0c6d-4ef1-8f3a-6f06fe61c548.jpg)
 
-**I-shika/I-shika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,3 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
  -->
+
+
