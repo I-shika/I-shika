@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/100770197/222948745-70bc2db4-0c6d-4ef1-8f3a-6f06fe61c548.jpg" height="240px">
 
 <img src="https://komarev.com/ghpvc/?username=I-shika&style=flat-square&color=blue" alt=""/>
- <a href="your-linkedin-URL">
+ <a href="(https://www.linkedin.com/in/ishika-179923240/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
