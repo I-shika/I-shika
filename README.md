@@ -27,7 +27,7 @@
   
 ### :fire: My Stats :
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=I-shika&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=I-shika&count_private=true&theme=tokyonight&showicons=true&count_private=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=I-shika&langs_count=5&theme=tokyonight)]()
 
 
