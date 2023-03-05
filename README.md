@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/100770197/222948745-70bc2db4-0c6d-4ef1-8f3a-6f06fe61c548.jpg">
 </div>
 </div>
-<img src="https://komarev.com/ghpvc/?username=&style=I-shikaflat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=I-shika&style=flat-square&color=blue" alt=""/>
 
 ### :hammer_and_wrench: Languages and Tools :
 
