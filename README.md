@@ -1,7 +1,7 @@
 ###     <div align='center'>                                           Hi there!, I am Ishika                                  </div>
  <div>
  
-![githubimg](https://user-images.githubusercontent.com/100770197/222948745-70bc2db4-0c6d-4ef1-8f3a-6f06fe61c548.jpg)        
+     
 <!-- **I-shika/I-shika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your  -->
              
 
@@ -13,7 +13,7 @@
 - 💬 Ask me about tech related
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
-
+![githubimg](https://user-images.githubusercontent.com/100770197/222948745-70bc2db4-0c6d-4ef1-8f3a-6f06fe61c548.jpg)   
 </div>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
