@@ -13,6 +13,8 @@
 - ⚡ Fun fact: ...
 
 
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
 ### :fire: My Stats :
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=I-shika&count_private=true&theme=tokyonight&showicons=true)]()
