@@ -1,5 +1,6 @@
 ###                                                           Hi there!, I am Ishika 
-<!--                                                          ![image](https://user-images.githubusercontent.com/100770197/222944380-a084e1b4-a977-4ca7-90c5-6b3fa079a1b8.png)
+                                            ![alt text](https://user-images.githubusercontent.com/100770197/222944539-804251dd-e172-45e9-8f49-36635259362e.png)
+
 **I-shika/I-shika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,6 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about tech related
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+ -->
