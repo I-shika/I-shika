@@ -3,17 +3,14 @@
  
      
 <!-- **I-shika/I-shika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your  -->
-<div display="flex">            
-<div>
+
 - 🔭 I’m currently exploring...
 - 🌱 Currently learning about Open source, DSA.
 - 💬 Ask me about tech related
 - 📫 How to reach me: ...
-</div>
-<div>
+
 <img src="https://user-images.githubusercontent.com/100770197/222948745-70bc2db4-0c6d-4ef1-8f3a-6f06fe61c548.jpg" height="240px">
-</div>
-</div>
+
 <img src="https://komarev.com/ghpvc/?username=I-shika&style=flat-square&color=blue" alt=""/>
 
 ### :hammer_and_wrench: Languages and Tools :
