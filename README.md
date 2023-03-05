@@ -4,7 +4,7 @@
      
 <!-- **I-shika/I-shika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your  -->
              
-<div display=flex>
+<div>
 <div>
 - 🔭 I’m currently working as technical manager at E-cell IITR
 - 🌱 Currently learning about Open source, DSA.
