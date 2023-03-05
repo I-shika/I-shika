@@ -5,7 +5,7 @@
 <!-- **I-shika/I-shika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your  -->
              
 
-- 🔭 I’m currently working as technical manager at E-cell IITR
+- 🔭 I’m currently exploring...
 - 🌱 Currently learning about Open source, DSA.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,7 +17,6 @@
 </div>
 </div>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
