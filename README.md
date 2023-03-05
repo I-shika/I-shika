@@ -4,7 +4,7 @@
      
 <!-- **I-shika/I-shika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your  -->
 
-- 🔭 I’m currently exploring...
+<!-- - 🔭 I’m currently exploring dev and -->
 - 🌱 Currently learning about Open source, DSA.
 - 💬 Ask me about tech related
 - 📫 How to reach me: ...
